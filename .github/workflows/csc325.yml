@@ -1,7 +1,7 @@
 name: CSC325cicd
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build-test-deploy:
