@@ -1,6 +1,7 @@
 from django.test import TestCase
 from django.urls import reverse
 
+# yet another new comment to create a push on main and test CI/CD pipeline
 # a new comment-ilknur
 # Create your tests here.
 # create some two unit tests for the home and about views in myapp/views.py
